@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">購物清單</string>
+    <string name="action_settings">結束</string>
+    <string name="shoptxt">清單標題名稱</string>
+</resources>
